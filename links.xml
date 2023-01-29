@@ -1,0 +1,121 @@
+<pages>
+<link>
+	<title>Ajmer</title>
+	<url>http://localhost/projectmain/ajmer.php</url>
+</link>
+
+<link>
+	<title>Alwar</title>
+	<url>http://localhost/projectmain/alwar.php</url>
+</link>
+
+<link>
+	<title>Bharatpur</title>
+	<url>http://localhost/projectmain/bharat.php</url>
+</link>
+
+<link>
+	<title>Bikaner</title>
+	<url>http://localhost/projectmain/bikaner.php</url>
+</link>
+
+<link>
+	<title>Bundi</title>
+	<url>http://localhost/projectmain/bundi.php</url>
+</link>
+
+<link>
+	<title>Chittorgarh</title>
+	<url>http://localhost/projectmain/chittorgarh.php</url>
+</link>
+
+<link>
+	<title>Dungarpur</title>
+	<url>http://localhost/projectmain/dungarpur.php</url>
+</link>
+
+<link>
+	<title>Jaipur</title>
+	<url>http://localhost/projectmain/jaipur.php</url>
+</link>
+
+<link>
+	<title>Jaisalmer</title>
+	<url>http://localhost/projectmain/jaisalmar.php</url>
+</link>
+
+<link>
+	<title>Jalor</title>
+	<url>http://localhost/projectmain/jalor.php</url>
+</link>
+
+<link>
+	<title>Jhalawar</title>
+	<url>http://localhost/projectmain/jhalawar.php</url>
+</link>
+
+<link>
+	<title>Jhunjhunu</title>
+	<url>http://localhost/projectmain/jhunjhunu.php</url>
+</link>
+
+<link>
+	<title>Jodhpur</title>
+	<url>http://localhost/projectmain/jodhpur.php</url>
+</link>
+
+<link>
+	<title>Nagaur</title>
+	<url>http://localhost/projectmain/nagaur.php</url>
+</link>
+
+<link>
+	<title>Sawai Madhopur</title>
+	<url>http://localhost/projectmain/sawai.php</url>
+</link>
+
+<link>
+	<title>Sikar</title>
+	<url>http://localhost/projectmain/sikar.php</url>
+</link>
+
+<link>
+	<title>Sirohi</title>
+	<url>http://localhost/projectmain/sirohi.php</url>
+</link>
+
+<link>
+	<title>Udaipur</title>
+	<url>http://localhost/projectmain/udaipur.php</url>
+</link>
+
+<link>
+	<title>Categories</title>
+	<url>http://localhost/projectmain/category.php</url>
+</link>
+
+<link>
+	<title>Gallery</title>
+	<url>http://localhost/projectmain/gallery.php</url>
+</link>
+
+<link>
+	<title>Home</title>
+	<url>http://localhost/projectmain/index.php</url>
+</link>
+
+<link>
+	<title>Login-Signup</title>
+	<url>http://localhost/projectmain/signup.php</url>
+</link>
+
+<link>
+	<title>About</title>
+	<url>http://localhost/projectmain/about.php</url>
+</link>
+
+
+
+
+
+</pages>
